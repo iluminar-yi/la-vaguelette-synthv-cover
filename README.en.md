@@ -1,53 +1,61 @@
-# {Song Title}
+# La vaguelette (轻涟) ANRI Arcane Cover
 
-* Vocal: [{Singer1}](https://synthv.fandom.com/wiki/Singer1) / [{Singer2}](https://synthv.fandom.com/wiki/Singer2)
-* {Other info}
+## Downloads
+
+* TBD
+
+## Intro
+
+* Vocal: [ANRI (铃爱莉) Arcane](https://synthv.fandom.com/wiki/ANRI_Arcane)
+* Original: https://www.bilibili.com/video/BV1Jg4y197YW
 * Synthesizer V Studio Pro (SynthV): https://dreamtonics.com/synthesizerv/
 
-Links were accessed on {mm/dd/yyyy}.
+Links were accessed on 07/26/2024.
 
-This work uses [`synthv-utils`](https://github.com/iluminar-yi/synthv-utils) to facilitate production and
-to prettify the `.s5p` project file to make it more readable and easier to track changes using `git`.
+This work prettifies project files as JSONs to make it more readable and easier to track changes using `git`.
 
 This is a `git` repo, which means you can navigate to a previous version of the project easily.
 I have created tags along this process, so that you can check out the tag and listen to what it sounded like.
 For example:
 
 ```bash
-git checkout add-timbre-params
+git checkout initial-transcription
 ```
 
 The list of tags are visible in multiple places, including
-[Releases](https://github.com/iluminar-yi/synthv-song-template/releases),
+[Releases](https://github.com/iluminar-yi/la-vaguelette-synthv-cover/releases),
 where rendered output files are published.
-
-## Authorizations
-
-The use of {something} has been authorized by [{Someone}](https://www.weibo.com/someone) on mm/dd/yyyy
-as shown in {some file}.
-
-Links were accessed on {mm/dd/yyyy}.
 
 ## Sources and Credits
 
 The following sources were used in this project:
 
-* {video name}: {link}
+* La vaguelette (
+  Instrumental): https://www.youtube.com/watch?v=PUA589qIAtM&list=OLAK5uy_m17jni65pJ-sqYSXGf-YYJ0fzTwe18ZLs&index=2
+* La vaguelette: https://www.youtube.com/watch?v=lm3t3myPspk&list=OLAK5uy_m17jni65pJ-sqYSXGf-YYJ0fzTwe18ZLs&index=1
+* Story Teaser: La vaguelette | Genshin Impact: https://www.youtube.com/watch?v=kglEsR7bqAY
+* Cutscene Animation: "Sinner's Finale" | Genshin Impact: https://www.youtube.com/watch?v=_RAhrisU6Mc
+* 《原神》过场动画-「罪人的终幕」: https://www.bilibili.com/video/BV1vu4y1b7Y9
+* GENSHIN IMPACT 4.2 - ARCHON QUEST | Full Game Walkthrough | No Commentary: https://www.youtube.com/watch?v=0nIbouB_Qv8
+* Transcription reference - 简谱】《轻涟》（原神剧情曲《轻涟 La
+  vaguelette》）: https://www.bilibili.com/read/cv27645765 | https://www.bilibili.com/video/BV1me411D7UP
 
-Links were accessed on {mm/dd/yyyy}.
+Links were accessed on 11/22/2023.
 
 ## Tool Versions
 
-* Synthesizer V Studio Pro {version} | Synthesizer V Engine {version} on macOS {version}
-* {Singer1} Build {number}/{Singer1 version display text}
-* REAPER v{version}
+* CapCut v2.8.0
+* yt-dlp: https://github.com/yt-dlp/yt-dlp
+* Synthesizer V Studio Pro 1.11.0 | Synthesizer V Engine 2.8.1 on macOS 14.1.1
+* ANRI ver. 102
+* REAPER v7.19
 
 ## Notice
 
-My work is done on the `.s5p` files and `.RPP` files found in this repository,
+My work is done on the `.s5p` files, `.RPP` files, and files under the `CapCut Drafts` folder found in this repository,
 as well as any supporting documents. These materials are licensed
 under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 whose copy can also be found in [`LICENSE`](/LICENSE). Should any other content infringes the copyright of the
 respective copyright owner,
-please open an [Issue](https://github.com/iluminar-yi/synthv-song-template/issues) and I will remove the
+please open an [Issue](https://github.com/iluminar-yi/la-vaguelette-synthv-cover/issues) and I will remove the
 infringing contents using my best and reasonable judgements and efforts.
